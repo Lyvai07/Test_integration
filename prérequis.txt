@@ -1,0 +1,11 @@
+# tests & base
+pytest==8.1.1
+
+# Diag AD-DNS
+dnspython==2.6.1
+ldap3==2.9.1
+python-dotenv==1.0.1
+rich==13.7.1
+
+# MySQL
+mysql-connector-python==9.6.0
